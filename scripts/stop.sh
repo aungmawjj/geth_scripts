@@ -1,0 +1,1 @@
+forever stop -c bash console.sh

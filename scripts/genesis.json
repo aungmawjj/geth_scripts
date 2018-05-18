@@ -1,0 +1,24 @@
+{
+  "config": {
+    "chainId": 15,
+    "homesteadBlock": 0,
+    "eip155Block": 0,
+    "eip158Block": 0
+  },
+  "alloc": {
+    "711c0d0ae820ffd8c9e678d9dd2a888e1a04f216": {"balance": "0xffffffffffffffffffffffff"},
+    "a5e1dfdb32131df0921e9f78e0fa963da8486a59": {"balance": "0xffffffffffffffffffffffff"},
+    "b0f054885366caaeca33ce57ae71ada60ed4b446": {"balance": "0xffffffffffffffffffffffff"},
+    "ba26505071599ae9c50f3c192e1d77903026ce1b": {"balance": "0xffffffffffffffffffffffff"},
+    "fb52bb47d47a5d5d50027572dbe2cc0ef15da43c": {"balance": "0xffffffffffffffffffffffff"},
+    "834e8e13b7c8b0d7eeb6584fc89cf83e5e7fd0be": {"balance": "0xffffffffffffffffffffffff"}
+  },
+  "coinbase"   : "0x0000000000000000000000000000000000000000",
+  "difficulty" : "0x20000",
+  "extraData"  : "",
+  "gasLimit"   : "0xfffffffffffff",
+  "nonce"      : "0x0000000000000042",
+  "mixhash"    : "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "parentHash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "timestamp"  : "0x00"
+}

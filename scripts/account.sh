@@ -1,0 +1,1 @@
+geth account new --datadir ../eth_node
