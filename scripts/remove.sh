@@ -1,1 +1,0 @@
-geth --datadir ../eth_node removedb

@@ -1,0 +1,5 @@
+[Service]
+ExecStart=/home/ubuntu/ethereum/geth_scripts/run.sh
+
+[Install]
+WantedBy=default.target

@@ -1,9 +1,9 @@
 # Go-ethereum scripts
 ```bash
-cd ethereum/scripts
+cd geth_scripts
 ```
 
-If this is your first time to initialize, create an account first for this blockchain node.
+If you don't want to use existing account, create an account first for this blockchain node.
 ```bash
 ./account.sh
 ```
@@ -16,5 +16,5 @@ Make sure your genesis.json file is configured to allocate gas for your accounts
 
 Run your ethereum node
 ```
-./console.sh
+./run.sh
 ```
